@@ -1,0 +1,84 @@
+Thông tin cá nhân
+Gender – Giới tính của sinh viên.
+
+Age at enrollment – Tuổi khi nhập học.
+
+Nacionality – Quốc tịch của sinh viên.
+
+Displaced – Sinh viên có sống xa nhà hay không.
+
+International – Sinh viên có phải là du học sinh hay không.
+
+Educational special needs – Sinh viên có nhu cầu giáo dục đặc biệt.
+
+Scholarship holder – Sinh viên có nhận học bổng không.
+
+Thông tin học tập
+Application order – Thứ tự ứng tuyển vào chương trình học.
+
+Course – Chương trình học mà sinh viên đăng ký.
+
+Admission grade – Điểm xét tuyển đầu vào của sinh viên.
+
+Daytime/evening attendance – Sinh viên học ban ngày hay buổi tối.
+
+Thông tin học kỳ 1 (Curricular units 1st sem)
+Curricular units 1st sem (credited) – Số môn học được chuyển điểm hoặc công nhận.
+
+Curricular units 1st sem (enrolled) – Số môn học mà sinh viên đăng ký trong học kỳ 1.
+
+Curricular units 1st sem (evaluations) – Số môn học sinh viên đã tham gia đánh giá (kiểm tra, bài tập lớn).
+
+Curricular units 1st sem (approved) – Số môn học sinh viên đã hoàn thành thành công (đạt đủ điểm qua môn).
+
+Curricular units 1st sem (grade) – Điểm trung bình của sinh viên trong các môn học kỳ 1.
+
+Curricular units 1st sem (without evaluations) – Số môn học mà sinh viên không tham gia đánh giá hoặc không có bài kiểm tra.
+
+Thông tin học kỳ 2 (Curricular units 2nd sem)
+Curricular units 2nd sem (credited) – Số môn học được chuyển điểm hoặc công nhận trong học kỳ 2.
+
+Curricular units 2nd sem (enrolled) – Số môn học mà sinh viên đăng ký trong học kỳ 2.
+
+Curricular units 2nd sem (evaluations) – Số môn học sinh viên đã tham gia đánh giá trong học kỳ 2.
+
+Curricular units 2nd sem (approved) – Số môn học sinh viên đã hoàn thành thành công trong học kỳ 2.
+
+Curricular units 2nd sem (grade) – Điểm trung bình của sinh viên trong các môn học kỳ 2.
+
+Curricular units 2nd sem (without evaluations) – Số môn học mà sinh viên không tham gia đánh giá hoặc không có bài kiểm tra trong học kỳ 2.
+
+Thông tin tài chính
+Debtor – Sinh viên có nợ học phí hay không.
+
+Tuition fees up to date – Sinh viên đã thanh toán học phí đúng hạn hay chưa.
+
+Thông tin gia đình
+Mother's qualification – Trình độ học vấn của mẹ.
+
+Father's qualification – Trình độ học vấn của bố.
+
+Mother's occupation – Nghề nghiệp của mẹ.
+
+Father's occupation – Nghề nghiệp của bố.
+
+Thông tin trình độ trước đây
+Previous qualification – Trình độ học vấn trước khi nhập học, có thể là bằng cấp phổ thông hoặc một trình độ cao hơn.
+
+Previous qualification (grade) – Điểm trung bình của sinh viên trong trình độ học vấn trước đây.
+
+Thông tin kinh tế xã hội
+Unemployment rate – Tỷ lệ thất nghiệp tại thời điểm sinh viên nhập học.
+
+Inflation rate – Tỷ lệ lạm phát.
+
+GDP – Tổng sản phẩm quốc nội (GDP).
+
+Nhãn (Label)
+target – Kết quả của sinh viên, có thể là:
+
+Graduate – Sinh viên đã tốt nghiệp.
+
+Dropout – Sinh viên bỏ học giữa chừng.
+
+Enrolled – Sinh viên vẫn đang theo học.
